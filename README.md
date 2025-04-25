@@ -45,3 +45,8 @@ GROUP BY YEAR(InvoiceDate), MONTH(InvoiceDate), FORMAT(InvoiceDate, 'MMM')
 ORDER BY TotalSales DESC;
 ~~~
 
+### Results/Findings
+### Recommendations
+### Limitations
+
+
